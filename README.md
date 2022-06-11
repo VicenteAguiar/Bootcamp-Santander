@@ -15,3 +15,6 @@
 [Introdução à Programação e Pensamento Computacional](./assets/introducao_a_programacao_e_pensamento_computacional.pdf) 
 
 [Introdução ao Git e ao GitHub](./assets/introducao_git_github.pdf) 
+
+[Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso](./assets/primeiro_repositorio.pdf) 
+
