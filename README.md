@@ -18,4 +18,6 @@
 
 [Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso](./assets/primeiro_repositorio.pdf) 
 
-[Introdução a criação de websites com HTML5 e CSS3](./assets/introducao_criacao_websites_com_HTML5_CSS3.pdf)
+[Introdução a criação de websites com HTML5 e CSS3](./assets/introducao_criacao_websites_com_HTML5_CSS3.pdf) 
+
+[Posicionando elementos com Flexbox em CSS](./assets/Posicionando_elementos_com_Flexbox_CSS.pdf)
